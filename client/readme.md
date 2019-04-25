@@ -10,3 +10,9 @@ NPC_SERVER_ADDR
 **  NPS服务端指定的客户端的VKEY **
 如果不知道VKEY是啥，请看NPS的官方文档
 NPC_SERVER_VKEY
+
+
+## Quick Start
+
+**Docker image**
+registry.cn-hangzhou.aliyuncs.com/sourcegarden/nps:client-v1.0
